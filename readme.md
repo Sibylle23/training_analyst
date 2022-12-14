@@ -7,3 +7,4 @@
 - git init 
 - git status 
 - git reset
+- git remove 
